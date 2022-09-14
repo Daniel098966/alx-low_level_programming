@@ -10,9 +10,9 @@ int main(void)
 
 	for (c = 'a' ; c <= 'z' ; c++)
 	{
-		if (h != 'e' && c != 'q')
+		if (c != 'e' && c != 'q')
 		{
-			putchar(h);
+			putchar(c);
 		}
 	}
 	putchar('\n');

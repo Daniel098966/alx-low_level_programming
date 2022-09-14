@@ -1,4 +1,5 @@
-#include <stdlib.h>                                                             #include <time.h>
+#include <stdlib.h>
+#include <time.h>
 #include <stdio.h>
 /**
  * main - prints random number to variable

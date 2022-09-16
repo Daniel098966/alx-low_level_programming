@@ -15,9 +15,13 @@ int main(void)
 		{
 			if (h == 100)
 			{
-				printf("Buzz");																	printf("\n");																}
+				printf("Buzz");
+
+				printf("\n");
+			}
 			else
-				printf("Buzz ");														}
+				printf("Buzz ");
+		}
 		else if (h % 3 == 0)
 			printf("Fizz ");
 		else

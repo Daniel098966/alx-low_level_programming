@@ -19,8 +19,8 @@ void print_number(int n)
 		n = n / -10;
 	}
 
-		else
-		{
+	else
+	{
 		ld = (char)((n % 10) + '0');
 		n = n / 10;
 	}

@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /*
 *main - Entry point
 *
@@ -10,12 +9,12 @@ int main(void)
 {
 	int c;
 
-	C = 0;
-	While
-		(C < 10) {
-			Putchar(c + ‘0');
-			c++;
-		}
+	c = 0;
+	While (c < 10)
+	{
+		Putchar(c + ‘0');
+		c++;
+	}
 	Putchar(‘\n’);
 	return (0);
 }
